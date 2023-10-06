@@ -1,0 +1,29 @@
+{
+  "name": "amq-adapter",
+  "version": "1.0.0",
+  "description": "Connector Typescript for AMQ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProSkater12/amq-adapter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProSkater12/amq-adapter/issues"
+  },
+  "homepage": "https://github.com/ProSkater12/amq-adapter#readme",
+  "devDependencies": {
+    "@types/node": "^20.8.2",
+    "jest": "^29.7.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "@types/jest": "^29.5.5",
+    "ts-jest": "^29.1.1"
+  }
+}
